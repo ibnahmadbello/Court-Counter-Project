@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Court Counter Project</string>
+    <string name="new_york_giant">New York Giant</string>
+    <string name="plus_six">+6 TouchDown</string>
+    <string name="plus_one">+1 Point</string>
+    <string name="plus_two">+2 Point</string>
+    <string name="plus_three">+3 Field Goal</string>
+    <string name="plus_two_safety">+2 Safety</string>
+    <string name="new_york_jets">New York Jets</string>
+    <string name="zero">0</string>
+    <string name="reset">Reset</string>
 </resources>
